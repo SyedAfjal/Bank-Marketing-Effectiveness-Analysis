@@ -10,6 +10,7 @@ Technologies Used:
 Python
 Pandas and NumPy for data manipulation
 Matplotlib and Seaborn for data visualization
+
 Project Description:
 The analysis focused on a dataset detailing interactions between the bank and its customers, specifically targeting the success of telephone marketing campaigns. We dissected the dataset to understand which factors most significantly influence the likelihood of customers subscribing to term deposits, aiming to optimize future marketing efforts for better conversion rates and cost efficiency.
 
