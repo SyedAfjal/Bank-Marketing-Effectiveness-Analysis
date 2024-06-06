@@ -16,28 +16,28 @@ The analysis focused on a dataset detailing interactions between the bank and it
 1. Effectiveness of Communication Types:
 
 The analysis revealed that cellular communications had a higher success rate in converting customers compared to traditional telephone methods.
-[Insert visualization here]
+
 
 
 2. Impact of Age on Subscription Rates:
 
 Younger (<25) and older (65+) age groups exhibited significantly higher subscription rates, suggesting these demographics respond more positively to the bank's offerings.
-[Insert visualization here]
+
 
 
 3. Influence of Marital Status:
 
 Single customers showed the highest subscription rates, indicating potential targeting strategies for the bank.
-[Insert visualization here]
+
 
 
 4. Relationship between Customer Balance and Subscription Likelihood:
 
 Customers with higher average yearly balances were more likely to subscribe, highlighting the balance as a key factor in predicting customer engagement.
-[Insert visualization here]
+
 
 
 5. Seasonal Variation in Subscription Rates:
 
 Subscription rates peaked notably in March, September, and December, suggesting an effective timing strategy for campaign intensification.
-[Insert visualization here]
+
