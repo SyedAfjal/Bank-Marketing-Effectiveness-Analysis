@@ -4,7 +4,9 @@
 
 This project aims to evaluate the effectiveness of marketing strategies employed by a bank in Portugal to promote term deposits among potential customers. Through data-driven insights, we explored various factors influencing the subscription rates, such as communication methods, customer demographics, financial standing, and seasonal variations.
 
-Dataset Link
+[Dataset Link](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing)
+
+
 
 Technologies Used:
 Python
